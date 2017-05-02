@@ -1,6 +1,7 @@
 #  Movie Trailer Website
 
 **About this program**  
+---
 This program generates an HTML file with posters and youtube trailer links to 9 different movies.  
 media.py - class Movie is defined and initialized  
 entertainment_center.py - contains 9 instances of the class Movie in a list. This list is used as an argument to call the fresh_tomatoes.py file  
