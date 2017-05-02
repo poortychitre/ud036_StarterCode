@@ -30,4 +30,4 @@ Under user variables, if missing add a new variable called path and assign the b
 C:\Python27;C:\Python27\Lib\site-packages;C:\Python27\Scripts  
 PS: Please verify the paths from your actual folder where python is installed.  
 
-**Note:** If you are unable to set the environmental variable, place the downloaded files for this program in the folder where python is installed on your machine.
+**Note:** If you are unable to set the environmental variable, place the downloaded files for this program in the python folder where python is installed on your machine and run the file entertainment_center.py as per above instructions.
