@@ -15,10 +15,11 @@ This program is written in Python 2.7 and would run on this or a higher version.
 	- entertainment_center.py
 	- media.py
 	- fresh_tomatoes.py
-- If Python IDLE installed, open the entertainment_center.py file and choos Run -> Run Module
+- If Python IDLE is installed, open the entertainment_center.py file and choose Run -> Run Module
 - If Python IDLE not installed
 	- open command prompt
 	- run the command -> `python entertainment_center.py`
+- Once the HTML page opens, it will display posters of 9 different movies. Click on the poster to open the youtube trailer.
 
 	
 **Possible errors while running the program**  
